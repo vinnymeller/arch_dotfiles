@@ -115,6 +115,7 @@ tmux-plugin-manager-git
 tree
 ttf-times-new-roman
 unityhub
+unixodbc
 unzip
 vim
 virt-manager
