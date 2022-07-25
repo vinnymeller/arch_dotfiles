@@ -1,0 +1,28 @@
+## ignore everything by default
+*
+
+## allow descending into specific directories
+!.config/
+
+## allow toplevel files i want to keep
+!.gitignore
+
+!.zshrc
+!.zshenv
+
+!.xinitrc
+
+!.tmux.conf
+
+## config dir stuff
+
+# nvim
+!.vimrc
+!.config/nvim/
+!.config/nvim/init.vim
+
+# redshift
+!.config/redshift/
+!.config/redshift/redshift.conf
+
+

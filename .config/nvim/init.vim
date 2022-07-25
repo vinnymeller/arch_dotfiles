@@ -1,0 +1,1 @@
+/home/vinny/.vimrc
