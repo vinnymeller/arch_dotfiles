@@ -7,6 +7,8 @@
 ## allow toplevel files i want to keep
 !.gitignore
 
+!installed-packages.txt
+
 !.zshrc
 !.zshenv
 
