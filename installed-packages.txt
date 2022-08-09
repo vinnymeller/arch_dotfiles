@@ -76,6 +76,7 @@ nvidia
 nvidia-container-toolkit
 nvidia-lts
 nvidia-settings
+nvim-packer-git
 nvm
 openbsd-netcat
 openssh
