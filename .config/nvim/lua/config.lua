@@ -8,6 +8,11 @@ vim.cmd [[colorscheme catppuccin]]
 -- uses defaults so far, TODO: explore this further
 require("nvim-tree").setup({
   open_on_setup = true,
+  open_file = {
+	  window_picker = {
+		  enable = false
+	  }
+  },
   sort_by = "case_sensitive",
   view = {
     adaptive_size = true,
@@ -16,6 +21,7 @@ require("nvim-tree").setup({
     dotfiles = false,
   },
 })
+require("nvim-tree").open_replacing_current_buffer()
 
 -- configure status bar
 require('feline').setup()
