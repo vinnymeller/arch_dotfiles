@@ -16,4 +16,6 @@ return require('packer').startup(function(use)
   use { 'neovim/nvim-lspconfig' }
   -- completion & language servers
   use {'neoclide/coc.nvim', branch = 'release'}
+  -- status bar
+  use { 'feline-nvim/feline.nvim' }
 end)

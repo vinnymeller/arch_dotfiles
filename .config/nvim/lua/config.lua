@@ -17,6 +17,8 @@ require("nvim-tree").setup({
   },
 })
 
+-- configure status bar
+require('feline').setup()
 
 -- basic neovim setup
 vim.cmd [[set number]]
@@ -26,3 +28,5 @@ vim.cmd [[set relativenumber]]
 vim.cmd [[set autoread]]
 vim.cmd [[au CursorHold * checktime]]
 
+-- autocmd to format the file every time before saving
+vim.api.nvim_command [[autocmd BufWritePre * silent! call CocAction("format") ]]
