@@ -21,6 +21,7 @@
 # nvim
 !.vimrc
 !.config/nvim/
+!.config/nvim/*
 !.config/nvim/init.lua
 !.config/nvim/lua
 !.config/nvim/lua/*
