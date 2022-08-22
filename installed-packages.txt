@@ -65,6 +65,7 @@ nemo
 neofetch
 neovim
 neovim-plug
+nerd-fonts-complete
 net-tools
 netctl
 networkmanager
