@@ -18,4 +18,7 @@ return require('packer').startup(function(use)
   use {'neoclide/coc.nvim', branch = 'release'}
   -- status bar
   use { 'feline-nvim/feline.nvim' }
+  -- primagen refactoring tools
+  use { "ThePrimeagen/refactoring.nvim", requires = { {"nvim-lua/plenary.nvim"}, {"nvim-treesitter/nvim-treesitter"} } }
+  use { 'nvim-telescope/telescope.nvim', tag = '0.1.0', requires = { {'nvim-lua/plenary.nvim'} } }
 end)
