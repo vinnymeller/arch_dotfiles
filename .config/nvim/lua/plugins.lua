@@ -18,7 +18,14 @@ return require('packer').startup(function(use)
   use {'neoclide/coc.nvim', branch = 'release'}
   -- status bar
   use { 'feline-nvim/feline.nvim' }
-  -- primagen refactoring tools
+  -- primagen refactoring tools TODO: figure out how the fuck they work
   use { "ThePrimeagen/refactoring.nvim", requires = { {"nvim-lua/plenary.nvim"}, {"nvim-treesitter/nvim-treesitter"} } }
+  -- TELESCOPE, to LOOK
   use { 'nvim-telescope/telescope.nvim', tag = '0.1.0', requires = { {'nvim-lua/plenary.nvim'} } }
+  -- git-worktrees, because this is a real issue frfr, prime is the goat
+  use { 'ThePrimeagen/git-worktree.nvim' }
+  -- magit for neovim 
+  use { 'TimUntersberger/neogit', requires = 'nvim-lua/plenary.nvim' }
+  -- Packer
+  use { 'sindrets/diffview.nvim', requires = 'nvim-lua/plenary.nvim' }
 end)

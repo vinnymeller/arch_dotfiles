@@ -7,7 +7,6 @@ vim.cmd [[colorscheme catppuccin]]
 -- nvim-tree setup
 -- uses defaults so far, TODO: explore this further
 require("nvim-tree").setup({
-  open_on_setup = true,
   sort_by = "case_sensitive",
   view = {
     adaptive_size = true,
@@ -19,17 +18,25 @@ require("nvim-tree").setup({
 
 -- primagen refactoring setup
 require('refactoring').setup({})
+require("git-worktree").setup({
+    autopush = true -- default: false,
+})
+
+require("telescope").load_extension("git_worktree")
 
 -- configure status bar
 require('feline').setup()
 
--- basic neovim setup
-vim.cmd [[set number]]
-vim.cmd [[set relativenumber]]
+-- neogit setup
+require("neogit").setup({
+    integrations = {
+        diffview = true,
+    },
+})
 
--- autoload files on change
-vim.cmd [[set autoread]]
-vim.cmd [[au CursorHold * checktime]]
+-- diffview setup
+require("diffview").setup({})
+
 
 -- autocmd to format the file every time before saving
 -- i dont actually like always autosaving
