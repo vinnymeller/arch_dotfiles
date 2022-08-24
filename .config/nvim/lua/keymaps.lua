@@ -24,3 +24,6 @@ vim.api.nvim_set_keymap('n', '<Leader>gwtc', '<cmd>lua require("telescope").exte
 
 -- toggle nvim tree
 vim.api.nvim_set_keymap('n', '<Leader>ntt', '<cmd>lua require("nvim-tree").toggle()<CR>', {})
+
+-- toggle neogit
+vim.api.nvim_set_keymap('n', '<Leader>ngt', '<cmd>lua require("neogit").open({kind="split"})<CR>', {})
