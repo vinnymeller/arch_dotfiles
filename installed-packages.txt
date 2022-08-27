@@ -55,6 +55,7 @@ linux-headers
 linux-lts
 linux-lts-headers
 looking-glass
+lua-language-server
 lvm2
 m4
 make
