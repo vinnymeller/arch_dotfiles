@@ -98,6 +98,7 @@ qbittorrent
 qemu-desktop
 ranger
 redshift
+rust-analyzer
 scream
 scrot
 sdl2_ttf
