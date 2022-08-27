@@ -12,8 +12,7 @@ bluez-utils
 brave-bin
 bspwm
 btop
-clang
-compiler-rt
+codelldb
 cuda
 cudnn
 dbeaver
@@ -56,7 +55,6 @@ linux-firmware
 linux-headers
 linux-lts
 linux-lts-headers
-lldb
 looking-glass
 lua-language-server
 lvm2
