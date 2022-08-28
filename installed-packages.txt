@@ -8,10 +8,12 @@ base
 bind
 binutils
 bison
+blas
 bluez-utils
 brave-bin
 bspwm
 btop
+cblas
 codelldb
 cuda
 cudnn
@@ -47,6 +49,9 @@ iwd
 jq
 keychain
 kitty
+lapack
+libdc1394
+libgphoto2
 libreoffice-fresh
 librewolf-bin
 libtool
@@ -83,6 +88,7 @@ nvidia-settings
 nvim-packer-git
 nvm
 openbsd-netcat
+opencv
 openssh
 os-prober
 p7zip
@@ -92,6 +98,7 @@ pavucontrol
 picom
 pkgconf
 postgresql
+protobuf
 psensor
 pulseaudio
 pulseaudio-nextsink
@@ -114,6 +121,7 @@ stress
 sudo
 swtpm
 sxhkd
+tbb
 tcpdump
 texinfo
 the_silver_searcher
