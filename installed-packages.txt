@@ -38,6 +38,7 @@ git
 glxinfo
 groff
 grub
+gvm
 htop
 imagemagick
 insomnia-bin
@@ -100,7 +101,6 @@ qbittorrent
 qemu-desktop
 ranger
 redshift
-rust-analyzer
 scream
 screenkey
 scrot
