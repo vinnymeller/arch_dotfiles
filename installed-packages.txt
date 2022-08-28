@@ -102,6 +102,7 @@ ranger
 redshift
 rust-analyzer
 scream
+screenkey
 scrot
 sdl2_ttf
 spotify
