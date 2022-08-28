@@ -56,7 +56,6 @@ linux-firmware
 linux-headers
 linux-lts
 linux-lts-headers
-llvm
 looking-glass
 lua-language-server
 lvm2
@@ -98,11 +97,11 @@ pulseaudio
 pulseaudio-nextsink
 pyenv
 pyenv-virtualenv
-python2
 qbittorrent
 qemu-desktop
 ranger
 redshift
+rust-analyzer
 scream
 screenkey
 scrot
