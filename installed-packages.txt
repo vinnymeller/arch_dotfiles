@@ -89,13 +89,10 @@ os-prober
 p7zip
 pamac-all
 patch
-pavucontrol
 picom
 pkgconf
 postgresql
 psensor
-pulseaudio
-pulseaudio-nextsink
 pyenv
 pyenv-virtualenv
 qbittorrent
