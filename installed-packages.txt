@@ -91,6 +91,7 @@ pamac-all
 patch
 picom
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pkgconf
 postgresql
