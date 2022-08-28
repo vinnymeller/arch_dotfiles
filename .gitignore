@@ -22,4 +22,5 @@
 !.config/redshift/
 !.config/redshift/redshift.conf
 
-
+# picom config
+!.config/picom.conf

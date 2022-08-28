@@ -66,3 +66,4 @@ if [ -f '/home/vinny/.google-cloud-sdk/path.zsh.inc' ]; then . '/home/vinny/.goo
 if [ -f '/home/vinny/.google-cloud-sdk/completion.zsh.inc' ]; then . '/home/vinny/.google-cloud-sdk/completion.zsh.inc'; fi
 
 export PATH="$HOME/.poetry/bin:$PATH"
+export PATH="$HOME/go/bin:$PATH"
