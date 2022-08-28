@@ -101,6 +101,7 @@ qbittorrent
 qemu-desktop
 ranger
 redshift
+rustup
 scream
 screenkey
 scrot
