@@ -89,6 +89,7 @@ os-prober
 p7zip
 pamac-all
 patch
+pavucontrol
 picom
 pipewire-alsa
 pipewire-jack
