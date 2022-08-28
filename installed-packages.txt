@@ -90,6 +90,8 @@ p7zip
 pamac-all
 patch
 picom
+pipewire-alsa
+pipewire-pulse
 pkgconf
 postgresql
 psensor
