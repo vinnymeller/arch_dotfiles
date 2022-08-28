@@ -101,6 +101,7 @@ qbittorrent
 qemu-desktop
 ranger
 redshift
+rust-analyzer-git
 rustup
 scream
 screenkey
