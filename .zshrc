@@ -65,5 +65,6 @@ if [ -f '/home/vinny/.google-cloud-sdk/path.zsh.inc' ]; then . '/home/vinny/.goo
 # The next line enables shell command completion for gcloud.
 if [ -f '/home/vinny/.google-cloud-sdk/completion.zsh.inc' ]; then . '/home/vinny/.google-cloud-sdk/completion.zsh.inc'; fi
 
+[[ -s "/home/vinny/.gvm/scripts/gvm" ]] && source "/home/vinny/.gvm/scripts/gvm"
 export PATH="$HOME/.poetry/bin:$PATH"
 export PATH="$HOME/go/bin:$PATH"
