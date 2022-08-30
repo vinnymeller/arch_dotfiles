@@ -36,6 +36,7 @@ flex
 gcc
 git
 glxinfo
+gn
 groff
 grub
 gvm
@@ -56,6 +57,7 @@ linux-firmware
 linux-headers
 linux-lts
 linux-lts-headers
+lld
 looking-glass
 lua-language-server
 lvm2
@@ -100,8 +102,10 @@ postgresql
 psensor
 pyenv
 pyenv-virtualenv
+python-httplib2
 qbittorrent
 qemu-desktop
+qt5-tools
 ranger
 redshift
 rust-analyzer-git
@@ -172,6 +176,7 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+yarn
 yq
 yubioath-desktop
 zenpower-dkms
