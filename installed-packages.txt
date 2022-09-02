@@ -33,6 +33,7 @@ fail2ban
 fakeroot
 feh
 flex
+fzf
 gcc
 git
 glxinfo
