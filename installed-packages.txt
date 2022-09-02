@@ -111,7 +111,6 @@ screenkey
 scrot
 sdl2_ttf
 spotify
-st-git
 steam
 strace
 stress
