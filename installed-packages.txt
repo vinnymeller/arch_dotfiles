@@ -27,7 +27,6 @@ dosfstools
 edex-ui-bin
 edk2-ovmf
 efibootmgr
-emacs
 etcher-bin
 evince
 fail2ban
