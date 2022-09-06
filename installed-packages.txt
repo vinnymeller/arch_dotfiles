@@ -67,7 +67,7 @@ man-pages
 mtools
 nemo
 neofetch
-neovim
+neovim-nightly-bin
 neovim-plug
 nerd-fonts-complete
 net-tools
