@@ -88,7 +88,6 @@ openbsd-netcat
 openssh
 os-prober
 p7zip
-pamac-all
 paru
 patch
 pavucontrol
