@@ -177,5 +177,6 @@ yq
 yubioath-desktop
 zenpower-dkms
 zip
+zoom
 zsa-wally
 zsh
