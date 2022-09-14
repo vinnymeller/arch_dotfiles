@@ -96,6 +96,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pkgconf
+popcorntime-bin
 postgresql
 psensor
 pyenv
