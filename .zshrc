@@ -68,3 +68,4 @@ if [ -f '/home/vinny/.google-cloud-sdk/completion.zsh.inc' ]; then . '/home/vinn
 [[ -s "/home/vinny/.gvm/scripts/gvm" ]] && source "/home/vinny/.gvm/scripts/gvm"
 export PATH="$HOME/.poetry/bin:$PATH"
 export PATH="$HOME/go/bin:$PATH"
+export PATH="$HOME/.cargo/bin:$PATH"
