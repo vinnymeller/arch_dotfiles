@@ -35,6 +35,8 @@ feh
 flex
 fzf
 gcc
+gdb
+gdb-common
 git
 glxinfo
 groff
@@ -111,6 +113,7 @@ scream
 screenkey
 scrot
 sdl2_ttf
+source-highlight
 spotify
 steam
 strace
@@ -122,6 +125,7 @@ tcpdump
 texinfo
 the_silver_searcher
 timeshift
+tk
 tmux
 tmux-plugin-manager-git
 tree
@@ -142,6 +146,7 @@ xclip
 xorg-bdftopcf
 xorg-iceauth
 xorg-mkfontscale
+xorg-server-xvfb
 xorg-sessreg
 xorg-smproxy
 xorg-x11perf
