@@ -125,7 +125,6 @@ timeshift
 tmux
 tmux-plugin-manager-git
 tree
-ttf-fira-code
 ttf-times-new-roman
 unityhub
 unixodbc
