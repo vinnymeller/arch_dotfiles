@@ -125,6 +125,7 @@ timeshift
 tmux
 tmux-plugin-manager-git
 tree
+ttf-jetbrains-mono
 ttf-times-new-roman
 ttf-victor-mono
 unityhub
