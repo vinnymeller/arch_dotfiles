@@ -59,6 +59,7 @@ linux-lts
 linux-lts-headers
 looking-glass
 lua-language-server
+luit
 lvm2
 m4
 make
@@ -139,6 +140,7 @@ which
 wireless_tools
 wpa_supplicant
 wqy-microhei
+xbitmaps
 xclip
 xorg-bdftopcf
 xorg-iceauth
@@ -174,6 +176,7 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+xterm
 yq
 yubioath-desktop
 zenpower-dkms
