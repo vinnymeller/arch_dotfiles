@@ -91,6 +91,7 @@ p7zip
 paru
 patch
 pavucontrol
+pgformatter-git
 picom
 pipewire-alsa
 pipewire-jack
