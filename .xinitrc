@@ -32,7 +32,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-xset r rate 200 40
+xset r rate 200 45
 xset -dpms
 xset s off
 exec bspwm
