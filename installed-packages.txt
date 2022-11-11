@@ -87,7 +87,6 @@ nvm
 obs-backgroundremoval
 openbsd-netcat
 openssh
-openssl-1.1
 os-prober
 p7zip
 paru
