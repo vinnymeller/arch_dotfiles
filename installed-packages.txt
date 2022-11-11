@@ -16,6 +16,7 @@ codelldb
 cuda
 cudnn
 dbeaver
+debugedit
 dhcpcd
 dialog
 discord
