@@ -12,7 +12,7 @@ bluez-utils
 brave-bin
 bspwm
 btop
-codelldb
+codelldb-bin
 cuda
 cudnn
 dbeaver
