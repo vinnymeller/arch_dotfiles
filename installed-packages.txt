@@ -178,7 +178,6 @@ xorg-xwininfo
 xorg-xwud
 yq
 yubioath-desktop
-zellij
 zenpower-dkms
 zip
 zoom
