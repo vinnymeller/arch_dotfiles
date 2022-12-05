@@ -10,6 +10,7 @@ binutils
 bison
 blueman
 bluez
+bluez-utils
 brave-bin
 bspwm
 btop
