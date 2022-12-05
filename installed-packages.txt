@@ -11,7 +11,6 @@ bison
 blueman
 bluez
 bluez-hid2hci
-bluez-utils
 brave-bin
 bspwm
 btop
