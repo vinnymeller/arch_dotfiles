@@ -39,6 +39,7 @@ fzf
 gcc
 git
 glxinfo
+gnome-bluetooth-3.0
 groff
 grub
 gvm
