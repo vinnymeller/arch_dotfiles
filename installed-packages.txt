@@ -113,6 +113,7 @@ scream
 screenkey
 scrot
 sdl2_ttf
+shfmt
 spotify
 steam
 strace
