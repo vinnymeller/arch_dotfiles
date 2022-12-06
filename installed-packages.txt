@@ -8,8 +8,7 @@ base
 bind
 binutils
 bison
-bluez-hid2hci
-bluez-utils-compat
+bluez-git
 brave-bin
 bspwm
 btop
@@ -50,7 +49,6 @@ iwd
 jq
 keychain
 kitty
-libical
 libreoffice-fresh
 librewolf-bin
 libtool
