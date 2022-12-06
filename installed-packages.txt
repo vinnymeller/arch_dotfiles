@@ -50,6 +50,7 @@ iwd
 jq
 keychain
 kitty
+libical
 libreoffice-fresh
 librewolf-bin
 libtool
