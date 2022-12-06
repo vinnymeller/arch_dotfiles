@@ -8,8 +8,6 @@ base
 bind
 binutils
 bison
-blueman
-bluez
 bluez-hid2hci
 bluez-utils-compat
 brave-bin
