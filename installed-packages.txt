@@ -107,6 +107,7 @@ qbittorrent
 qemu-desktop
 ranger
 redshift
+ripgrep
 rust-analyzer-git
 rustup
 scream
