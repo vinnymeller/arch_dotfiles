@@ -74,7 +74,6 @@ neovim-plug
 nerd-fonts-complete
 net-tools
 netctl
-networkmanager
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
@@ -141,7 +140,6 @@ vlc
 wget
 which
 wireless_tools
-wpa_supplicant
 wqy-microhei
 xclip
 xorg-bdftopcf
