@@ -8,7 +8,6 @@ base
 bind
 binutils
 bison
-blueman
 bluez-git
 brave-bin
 bspwm
@@ -140,6 +139,7 @@ vlc
 wget
 which
 wireless_tools
+wpa_supplicant
 wqy-microhei
 xclip
 xorg-bdftopcf
