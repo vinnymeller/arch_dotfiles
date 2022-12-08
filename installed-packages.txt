@@ -8,6 +8,7 @@ base
 bind
 binutils
 bison
+blueman
 bluez-git
 brave-bin
 bspwm
