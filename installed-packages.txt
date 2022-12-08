@@ -105,6 +105,7 @@ pyenv-virtualenv
 qbittorrent
 qemu-desktop
 ranger
+rclone
 redshift
 ripgrep
 rust-analyzer-git
