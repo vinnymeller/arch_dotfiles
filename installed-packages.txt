@@ -38,6 +38,7 @@ flex
 fzf
 gcc
 git
+github-cli
 glxinfo
 groff
 grub
