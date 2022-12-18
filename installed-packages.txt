@@ -1,7 +1,6 @@
 act-bin
 alsa-utils
 amd-ucode
-appstream-glib
 arandr
 autoconf
 automake
@@ -23,8 +22,6 @@ dialog
 discord
 dmenu
 dnsmasq
-docbook-xml
-docbook-xsl
 docker
 docker-compose
 dosfstools
@@ -39,17 +36,12 @@ feh
 firefox
 flex
 fzf
-gcab
 gcc
 git
 github-cli
-glib2-docs
 glxinfo
-graphviz
 groff
 grub
-gtk-doc
-gts
 gvm
 htop
 imagemagick
@@ -83,7 +75,6 @@ neovim-plug
 nerd-fonts-complete
 net-tools
 netctl
-netpbm
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
@@ -113,9 +104,6 @@ postgresql
 psensor
 pyenv
 pyenv-virtualenv
-python-anytree
-python-lxml
-python-pygments
 qbittorrent
 qemu-desktop
 ranger
@@ -147,7 +135,6 @@ ttf-times-new-roman
 unityhub
 unixodbc
 unzip
-vala
 vim
 virt-manager
 visual-studio-code-bin
