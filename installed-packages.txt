@@ -51,8 +51,7 @@ iwd
 jq
 keychain
 kitty
-libappindicator-gtk3
-libindicator-gtk3
+koodo-reader-bin
 libreoffice-fresh
 libtool
 libvirt
@@ -105,7 +104,6 @@ postgresql
 psensor
 pyenv
 pyenv-virtualenv
-python-atspi
 qbittorrent
 qemu-desktop
 ranger
