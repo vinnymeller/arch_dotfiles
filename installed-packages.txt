@@ -83,7 +83,6 @@ nvidia
 nvidia-container-toolkit
 nvidia-lts
 nvidia-settings
-nvim-packer-git
 nvm
 obs-backgroundremoval
 openbsd-netcat
