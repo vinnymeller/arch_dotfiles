@@ -35,6 +35,7 @@ fakeroot
 feh
 firefox
 flex
+fluent-reader-bin
 fzf
 gcc
 git
