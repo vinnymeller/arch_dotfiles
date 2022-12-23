@@ -76,6 +76,7 @@ neovim-plug
 nerd-fonts-complete
 net-tools
 netctl
+newsboat
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
