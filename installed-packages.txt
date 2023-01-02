@@ -44,6 +44,7 @@ glxinfo
 groff
 grub
 gvm
+helix-git
 htop
 imagemagick
 insomnia-bin
