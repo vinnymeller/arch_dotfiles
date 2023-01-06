@@ -1,6 +1,7 @@
 act-bin
 alsa-utils
 amd-ucode
+anaconda
 arandr
 autoconf
 automake
