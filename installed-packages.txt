@@ -12,6 +12,7 @@ bluez
 bluez-utils
 bspwm
 btop
+cmake
 codelldb-bin
 cuda
 cudnn
@@ -51,6 +52,7 @@ insomnia-bin
 iptables-nft
 iwd
 jq
+jsoncpp
 keychain
 kitty
 koodo-reader-bin
@@ -110,6 +112,7 @@ qbittorrent
 qemu-desktop
 ranger
 redshift
+rhash
 ripgrep
 rust-analyzer-git
 rustup
@@ -118,6 +121,7 @@ screenkey
 scrot
 sdl2_ttf
 shfmt
+spice-protocol
 spotify
 steam
 strace
@@ -141,6 +145,7 @@ vim
 virt-manager
 visual-studio-code-bin
 vlc
+wayland-protocols
 wget
 which
 wireless_tools
