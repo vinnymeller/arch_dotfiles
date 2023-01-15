@@ -73,6 +73,7 @@ man-pages
 mtools
 nemo
 neofetch
+neovim
 nerd-fonts-complete
 net-tools
 netctl
