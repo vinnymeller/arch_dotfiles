@@ -11,6 +11,7 @@ binutils
 bison
 bluez
 bluez-utils
+bmake
 bspwm
 btop
 codelldb-bin
@@ -42,6 +43,7 @@ gcc
 git
 github-cli
 glxinfo
+go
 groff
 grub
 gvm
@@ -112,6 +114,7 @@ qemu-desktop
 ranger
 redshift
 ripgrep
+rpcsvc-proto
 rust-analyzer-git
 rustup
 scream
